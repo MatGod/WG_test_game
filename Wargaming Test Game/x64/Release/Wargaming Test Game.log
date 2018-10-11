@@ -1,0 +1,75 @@
+﻿  stdafx.cpp
+  Block.cpp
+d:\study\game-develop\wargaming test game\wargaming test game\block.cpp(50): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+d:\study\game-develop\wargaming test game\wargaming test game\block.cpp(72): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=unsigned int
+          ]
+d:\study\game-develop\wargaming test game\wargaming test game\block.cpp(73): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+  Field.cpp
+d:\study\game-develop\wargaming test game\wargaming test game\field.cpp(44): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+d:\study\game-develop\wargaming test game\wargaming test game\field.cpp(64): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+d:\study\game-develop\wargaming test game\wargaming test game\field.cpp(63): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+d:\study\game-develop\wargaming test game\wargaming test game\field.cpp(69): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+d:\study\game-develop\wargaming test game\wargaming test game\field.cpp(68): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+d:\study\game-develop\wargaming test game\wargaming test game\field.cpp(116): warning C4018: >: несоответствие типов со знаком и без знака
+d:\study\game-develop\wargaming test game\wargaming test game\field.cpp(118): warning C4018: >: несоответствие типов со знаком и без знака
+  Wargaming Test Game.cpp
+d:\study\game-develop\wargaming test game\wargaming test game\wargaming test game.cpp(53): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=unsigned int
+          ]
+  Создание кода
+  All 512 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  Wargaming Test Game.vcxproj -> D:\Study\Game-Develop\Wargaming Test Game\x64\Release\Wargaming Test Game.exe
